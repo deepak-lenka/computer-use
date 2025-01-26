@@ -51,13 +51,6 @@ Run the example script:
 python3 agent.py
 ```
 
-The script will:
-1. Navigate to OpenAI's YouTube channel
-2. Find and click the Videos tab
-3. Locate the most recent upload
-4. Play the video and verify playback
-5. Generate a visual history of the interaction (agent_history.gif)
-
 ## Example Task 📝
 
 ```python
